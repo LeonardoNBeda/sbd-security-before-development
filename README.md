@@ -35,7 +35,7 @@ This framework helps achieve the following:
 
 # Table of Contents
 
-1. [Phase 0: Business Reconnaissance](./SBD_framework/Phase0-Business_Reconnaiscense.md)
+1. [Phase 0: Business Reconnaissance](./SBD_framework/Phase0-Business_Reconnaiscence.md)
 2. [Phase 1: Security Requirements](./SBD_framework/Phase1-Requirements.md)
 3. [Phase 2: Design Review and Threat Modeling](./SBD_framework/Phase2-Design.md)
 4. [Phase 3: Development](./SBD_framework/Phase3-Development.md)
