@@ -101,3 +101,5 @@ During the **Design Review and Threat Modeling** phase, the following artifacts 
 ## Conclusion
 
 The **Design Review and Threat Modeling** phase is essential for identifying and mitigating potential security risks in the application design. By conducting thorough reviews and implementing security controls early in the development process, teams can significantly reduce the likelihood of vulnerabilities being introduced during implementation. By the end of this phase, developers and security teams should have a clear understanding of the application's security posture and the measures necessary to address any identified risks.
+
+[Go to Previous page](./SBD_framework/Phase1-Requirements.md) | [Go to next page](./SBD_framework/Phase3-Development.md)

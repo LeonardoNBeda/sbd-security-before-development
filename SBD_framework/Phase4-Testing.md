@@ -68,3 +68,5 @@ During the **Testing** phase, the following artifacts must be provided to the Ap
 ## Conclusion
 
 The **Testing** phase is crucial for ensuring that the application is secure and aligns with established security requirements. By conducting thorough automated and penetration testing, teams can identify vulnerabilities, validate security controls, and maintain comprehensive documentation to facilitate effective remediation and continuous improvement.
+
+[Go to Previous page](./SBD_framework/Phase3-Development.md) | [Go to next page](./SBD_framework/Phase5-Deployment.md)

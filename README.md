@@ -33,6 +33,18 @@ This framework helps achieve the following:
 4. **Streamlined Security Processes**: Simplifies the collection of security artifacts, making security assessments easier and faster.
 5. **Proactive Risk Management**: Allows AppSec teams to identify and mitigate security risks before they are introduced into the development process.
 
+# Table of Contents
+
+1. [Phase 0: Business Reconnaissance](./SBD_framework/Phase0-Business_Reconnaiscense.md)
+2. [Phase 1: Security Requirements](./SBD_framework/Phase1-Requirements.md)
+3. [Phase 2: Design Review and Threat Modeling](./SBD_framework/Phase2-Design.md)
+4. [Phase 3: Development](./SBD_framework/Phase3-Development.md)
+5. [Phase 4: Testing](./SBD_framework/Phase4-Testing.md)
+6. [Phase 5: Deployment](./SBD_framework/Phase5-Deployment.md)
+7. [Extra: Tooling for Each Phase](./SBD_framework/Extra-Toolings_for_each_phase.md)
+
+---
+
 ## Conclusion
 
 "Security Before Development" is a proactive approach to embedding security into the software development process by making sure all the necessary requirements, documentation, and security controls are in place before coding begins. This framework encourages close collaboration between AppSec and development teams, ensuring that security and privacy are considered from the very start of the project, which reduces vulnerabilities and security risks during and after development.

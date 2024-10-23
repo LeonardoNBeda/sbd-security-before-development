@@ -106,3 +106,5 @@ During the **Business Reconnaissance** phase, the following artifacts should be 
 The **Business Reconnaissance** phase is a crucial starting point for embedding security and privacy into the product's lifecycle. By gaining a thorough understanding of the business context, AppSec teams can better define security requirements, align them with business goals, and ensure that security risks are addressed early in the SSDLC.
 
 This phase also lays the groundwork for future security and privacy activities, such as threat modeling and architectural reviews, by clarifying how the product operates and the potential security implications of its business model.
+
+[Go to Previous page](./README.md) | [Go to next page](./SBD_framework/Phase1-Requirements.md)
