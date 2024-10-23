@@ -49,4 +49,4 @@ Beyond just tools, this documentation underscores the necessity of a comprehensi
 ## Conclusion
 Integrating these open-source tools and frameworks can significantly enhance security practices throughout each phase of the SBD. By emphasizing OWASP resources, organizations can align their security initiatives with industry best practices, paving the way for more secure and resilient applications. The ideal combination of tools will vary depending on the specific needs and technologies employed by the development and security teams.
 
-[Go to Previous page](./SBD_framework/Phase5-Deployment.md)
+[Go to Previous page](./Phase5-Deployment.md)

@@ -67,4 +67,4 @@ During the **Development** phase, the following artifacts must be provided to th
 
 The **Development** phase is crucial for ensuring that secure coding practices are followed and that vulnerabilities are effectively identified and managed. Through comprehensive code reviews and static analysis, teams can significantly reduce the risk of security issues in deployed software. By the end of this phase, developers and security teams should have a clear understanding of any vulnerabilities present in the code and a solid plan for addressing them before advancing to the next phase of the SSDLC.
 
-[Go to Previous page](./SBD_framework/Phase2-Design.md) | [Go to next page](./SBD_framework/Phase4-Testing.md)
+[Go to Previous page](./Phase2-Design.md) | [Go to next page](./Phase4-Testing.md)

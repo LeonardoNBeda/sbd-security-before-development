@@ -97,4 +97,4 @@ During the **Security Requirements** phase, the following artifacts must be prov
 
 The **Security Requirements** phase is crucial for ensuring that security and privacy considerations are integrated into the product from the beginning. By defining secure development practices, setting clear requirements for cloud infrastructure, and addressing compliance and encryption, the AppSec team can significantly reduce the risk of vulnerabilities. By the end of this phase, developers should have a comprehensive understanding of their responsibilities in ensuring the product is secure and compliant with applicable regulations.
 
-[Go to Previous page](./SBD_framework/Phase0-Business_Reconnaiscense.md) | [Go to next page](./SBD_framework/Phase2-Design.md)
+[Go to Previous page](./Phase0-Business_Reconnaiscense.md) | [Go to next page](./Phase2-Design.md)

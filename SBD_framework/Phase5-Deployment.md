@@ -64,4 +64,4 @@ During the **Deployment** phase, the following artifacts must be provided to ens
 
 The **Deployment** phase is vital for ensuring that the application is securely launched and continuously monitored for security threats. By conducting thorough security assessments, implementing robust security configurations, and establishing effective monitoring practices, organizations can significantly enhance their security posture and mitigate risks in the production environment.
 
-[Go to Previous page](./SBD_framework/Phase4-Testing.md) | [Go to next page](./SBD_framework/Extra-Toolings_for_each_phase.md)
+[Go to Previous page](./Phase4-Testing.md) | [Go to next page](./Extra-Toolings_for_each_phase.md)
